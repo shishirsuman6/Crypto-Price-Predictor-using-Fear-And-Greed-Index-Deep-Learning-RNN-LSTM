@@ -10,7 +10,7 @@ number_units = 2
 
 ## LSTM Stock Predictor Using Fear and Greed Index
 
-Evaludated Loss was least (0.023116011172533035) with the following:
+Evaludated Loss was least (0.09655482321977615) with the following:
 window_size = 3
 number_units = 3
 
